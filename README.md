@@ -1,7 +1,6 @@
 # LearningResources
 
 ## 代码库
----
 ### Website
 * [iOSExample](https://iosexample.com/)
 * [CocoaControls](https://www.cocoacontrols.com)
@@ -22,6 +21,5 @@
 * [SwiftTalk](https://talk.objc.io)
 
 ## 开发手册
----
 * [Swift 教程](https://swiftgg.gitbook.io/swift/swift-jiao-cheng)
 * [Apple Developer Documentation](https://developer.apple.com/documentation/)
