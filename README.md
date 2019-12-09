@@ -1,2 +1,6 @@
 # LearningResources
-一些学习资源整理
+
+## 代码库
+* [iOSCodeHub](http://www.ioscodehub.com)
+* [CocoaChina](http://code.cocoachina.com)
+
