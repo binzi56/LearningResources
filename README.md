@@ -14,3 +14,7 @@
 ### Page
 * [Swift 开源项目精选 - 应用架构角度](https://xiaozhuanlan.com/topic/5796328014)
 * [Awesome-swift](https://github.com/matteocrippa/awesome-swift)
+* [SwiftGuide](https://github.com/ipader/SwiftGuide)
+
+### Video
+* [SwiftTalk](https://talk.objc.io)
