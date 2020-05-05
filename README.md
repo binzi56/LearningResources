@@ -6,6 +6,7 @@
 **App**
 * [Appcoda](https://www.appcoda.com)
 * [Raywenderlich](https://www.raywenderlich.com/library)
+* [Open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 **控件**
 * [iOSExample](https://iosexample.com/)
@@ -17,15 +18,24 @@
 * [csdn](https://download.csdn.net/psearch/0/10/0/0/1/iOS)
 * [源码巴士](http://www.appcode.cc/list-2-1.html)
 
-### Page
-**App**
-* [Open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
-
-**控件**
 * [Swift 开源项目精选 - 应用架构角度](https://xiaozhuanlan.com/topic/5796328014)
 * [Awesome-swift](https://github.com/matteocrippa/awesome-swift)
 * [SwiftGuide](https://github.com/ipader/SwiftGuide)
 * [Awesome-ios](https://github.com/vsouza/awesome-ios)
+
+**Blog**
+* [NSHipster](https://nshipster.com/)
+
+**Developer**
+* [知名开发者](https://github.com/ipader/SwiftGuide/blob/master/2019/SwiftDevelopers.md)
+* [开源项目团队](https://github.com/ipader/SwiftGuide/blob/master/2019/SwiftDevelopmentTeam.md)
+
+### Book
+* [Raywenderlich](https://store.raywenderlich.com/)
+* [objc.io](https://www.objc.io/books/)
+* [Objective-C高级编程](time://mall?url=https%253A%252F%252Fh5.youzan.com%252Fv2%252Fgoods%252F2ok8btknjr3e0%253Fstep%253D1)
+* [程序员的自我修养 - 链接、装载与库](time://mall?url=https%253A%252F%252Fh5.youzan.com%252Fv2%252Fgoods%252F3f42f8o0371ug%253Fstep%253D1)
+* [架构整洁之道](time://mall?url=https%253A%252F%252Fh5.youzan.com%252Fv2%252Fgoods%252F276fjn6r89uuw%253Fstep%253D1)
 
 ### Video
 * [SwiftTalk](https://talk.objc.io)
