@@ -51,10 +51,6 @@
 ---
 
 ### Excellent Blog Post
-
-Git
-* [一篇文章，教你学会Git](https://www.jianshu.com/p/072587b47515)
-
 Computer
 * [进程与线程漫画图解](https://www.sohu.com/a/404552424_781584)
 
@@ -64,6 +60,8 @@ NetWork
 Principle
 * [深入理解MySQL索引底层实现原理丨技术干货](https://zhuanlan.zhihu.com/p/77383599)
 
-
+Version Management Tool
+* [一篇文章，教你学会Git](https://www.jianshu.com/p/072587b47515)
+* [版本管理工具及 Ruby 工具链环境](https://juejin.im/post/6844904186048430087)
 
 
